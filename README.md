@@ -15,14 +15,6 @@ Annotation guidelines tailored for Greek (to be available soon)
 
 Evaluation tools and metrics (to be available soon)
 
-## Repository Structure
-%data/ – Raw, annotated, and split datasets
-guidelines/ – NE annotation guidelines
-models/ – Classifiers, configs, and evaluation scripts
-scripts/ – Preprocessing and data management tools
-notebooks/ – Exploratory and error analysis
-README.md – Project overview
-requirements.txt – Python dependencies
 
 ## References
 Iason Demiros, Sotiris Boutsis, Voula Giouli, Maria Liakata, Harris Papageorgiou, and Stelios Piperidis. 2000. Named Entity Recognition in Greek Texts. In Proceedings of the Second International Conference on Language Resources and Evaluation (LREC’00), Athens, Greece. European Language Resources Association (ELRA).
