@@ -6,10 +6,12 @@ This is a follow-up to previous work on Greek NER (Demiros et al., 2000; Giouli 
 
 ## Features
 Annotated Greek corpus following UNER guidelines //
+Baseline NER classifier using transformer-based models (to be available soon //
 
-Baseline NER classifier using transformer-based models (to be available soon)
 Preprocessing and annotation conversion scripts (to be available soon)
+
 Annotation guidelines tailored for Greek (to be available soon)
+
 Evaluation tools and metrics (to be available soon)
 
 ## Repository Structure
