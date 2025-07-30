@@ -5,7 +5,8 @@ This repository contains resources and tools for Named Entity Recognition in Mod
 This is a follow-up to previous work on Greek NER (Demiros et al., 2000; Giouli et al., 2006). Moreover, Greek remains underrepresented in multilingual NER benchmarks. This project aims to fill that gap by providing open datasets, models, and tools to support research and applications in Greek NER.
 
 ## Features
-Annotated Greek corpus following UNER guidelines
+Annotated Greek corpus following UNER guidelines //
+
 Baseline NER classifier using transformer-based models (to be available soon)
 Preprocessing and annotation conversion scripts (to be available soon)
 Annotation guidelines tailored for Greek (to be available soon)
